@@ -6,7 +6,7 @@ Una amiga que tiene dislexia me describió lo que siente al leer. Ella *puede* l
 
 Recuerdo haber leído sobre la [_typoglicemia_](https://en.wikipedia.org/wiki/Typoglycemia). ¿Sería posible hacerlo interactivamente con Javascript? ¡Claro que sí!
 
-¿Ganas de hacer un bookmarklet the esto o algo? [Forkealo](https://github.com/geon/geon.github.com/blob/master/_posts/2016-03-03-dsxyliea.md) en Github.
+¿Ganas de hacer un bookmarklet de esto o algo? [Forkealo](https://github.com/geon/geon.github.com/blob/master/_posts/2016-03-03-dsxyliea.md) en Github.
 
 > La dislexia es la dificultad de aprendizaje que afecta a la lectoescritura, es de carácter específico y persistente. Se da en personas que no presentan ninguna discapacidad física, motriz, visual o de cualquier otro tipo. Asimismo, las personas con dislexia tienen un desarrollo cognitivo normal. Erróneamente el término se aplica a la dificultad para una correcta escritura, en este caso el término médico apropiado es el de disortografía.
 
@@ -25,7 +25,7 @@ Recuerdo haber leído sobre la [_typoglicemia_](https://en.wikipedia.org/wiki/Ty
 > - Problemas de comprensión de textos escritos
 > - Fluctuaciones muy significativas de capacidad
 >
-> A veces, pueden darse según el tipo de dislexia o de como esta haya afectado a la persona:
+> A veces, pueden darse según el tipo de dislexia o de como ésta haya afectado a la persona:
 >
 > - Dificultades en el lenguaje hablado
 > - Problemas de percepción de las distancias y del espacio
